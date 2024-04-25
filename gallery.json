@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "first_image.jpg"
+  },
+  {
+    "id": 2,
+    "image": "second_image.jpg"
+  },
+  {
+    "id": 3,
+    "image": "third_image.jpg"
+  },
+  {
+    "id": 4,
+    "image": "fourth_image.jpg"
+  },
+  {
+    "id": 5,
+    "image": "fifth_image.jpg"
+  },
+  {
+    "id": 6,
+    "image": "sixth_image.jpg"
+  },
+  {
+    "id": 7,
+    "image": "seventh_image.jpg"
+  },
+  {
+    "id": 8,
+    "image": "eighth_image.jpg"
+  }
+]
